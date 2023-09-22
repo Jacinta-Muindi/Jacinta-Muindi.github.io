@@ -18,7 +18,12 @@
 
     <!-- About Me Section -->
     <section id="about-me">
-        <!-- Your content goes here -->
+        <!-- I already have created an assets file with images folder, I have a README 
+            file and _config.yml. I want to create my porfolio such that the home page 
+            starts with about me that covers almost half the page,  then below i want 
+            clickable images leading to projects, cv, and contacts in separate pages. 
+            On top, i want also clickable links on the same. How do i go about it? 
+            please provide codes too -->
     </section>
 <a href="projects.html">
     <img src="assets/images/projects.png" alt="Projects">
