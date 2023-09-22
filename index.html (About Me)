@@ -20,6 +20,16 @@
     <section id="about-me">
         <!-- Your content goes here -->
     </section>
+<a href="projects.html">
+    <img src="assets/images/projects.png" alt="Projects">
+</a>
+<a href="projects.html">
+    <img src="assets/images/res2.png" alt="Resume">
+</a>
+<a href="projects.html">
+    <img src="assets/images/Contacts.png" alt="Contacts">
+</a>
+
 
     <!-- Other Sections (Projects, CV, Contacts) -->
     <!-- Add similar sections in other HTML files -->
